@@ -1,0 +1,5 @@
+spool 'echo 123'
+spool 'echo 321'
+enable
+jobs
+quit
